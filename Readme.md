@@ -1,6 +1,6 @@
 # SPEED TESTE COM PYTHON 
 
-Código criado em Python para medir a velocidade da internet.
+Código feito para medir a velocidade de Download e Upload com Python
 
 
 **Bibliotecas usadas:**
